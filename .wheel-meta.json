@@ -1,0 +1,22 @@
+{
+  "wheel_id": 846,
+  "structure": "umbrella",
+  "slug": "adelaidetilingwaterproofing-111",
+  "project": "tiling-services-adelaide-warranty-844aa94f3e85be41f688bb87b2fe6",
+  "parent_t1_ref": "adelaidetilingwaterproofing-155",
+  "node_role": "feeder",
+  "money_target": "adelaidetilingwaterproofing.com.au",
+  "primary_kw": "tiling services adelaide warranty",
+  "intended_url": "https://sitesau.github.io/adelaidetilingwaterproofing-111/",
+  "tier": "T2",
+  "writeback_nonce": "f2aa4076c7271dbc",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/tiling-services-adelaide-diy-vs-professional-3d3f56ac8519b26d72/",
+      "anchor": "more on tiling services adelaide diy vs professional",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
